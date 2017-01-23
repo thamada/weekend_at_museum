@@ -2,7 +2,8 @@
 
 ## youtube
  
-- [![Gobe - Davido](https://www.youtube.com/embed/kFDu6ACKLKo)](https://youtu.be/kFDu6ACKLKo)
+- [![Gobe - Davido](https://i.ytimg.com/vi/kFDu6ACKLKo/hqdefault.jpg?custom=true&w=246&h=138&stc=true&jpg444=true&jpgq=90&sp=68&sigh=GlpdZYE_o_TCiDn2lgFB2b4wtxg)](https://youtu.be/kFDu6ACKLKo)
+
 
 
 
