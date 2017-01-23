@@ -1,8 +1,9 @@
-Name of Party: Weekend @ Museum
-Day: Saturday or Friday
-Time: PM10:00 ~ AM3:00
+# Weekend @ Museum
 
-Equiptment:
+## Day: Saturday or Friday
+## Time: PM10:00 ~ AM3:00
+
+## Equiptment:
  - Speaker
  - Speaker (bluetooth)
  - Projector
@@ -14,9 +15,8 @@ Equiptment:
  - ice
  - soft drink ( coke, orange, 
  - chips, bisket, 
- 
- Schedule:
-  - X-day: 2017-02-10 (Fri)
-  - reharsal: 2017-02-06 (Mon)
-  - 
+ ## Schedule:
+  - The-day: 2017-02-10 (Fri)
+  - rehearsal: 2017-02-06 (Mon)
+
   
