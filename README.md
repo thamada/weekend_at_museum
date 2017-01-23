@@ -3,7 +3,7 @@
 ## Links
 
 - [google](https://www.google.com/)
-- [yahoo](yahoo.com)
+- [yahoo](http://www.yahoo.com)
 
 
 
