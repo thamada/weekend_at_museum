@@ -9,6 +9,13 @@ items
  - item3-2
 - item4
 
+## Numbered list
+
+1. apples
+2. oranges
+3. pears
+4. nanas
+
 
 
 ## Day: Saturday or Friday
