@@ -1,5 +1,7 @@
 # Weekend @ Museum
 
+
+
 ## Day: Saturday or Friday
 ## Time: PM10:00 ~ AM3:00
 
@@ -15,7 +17,8 @@
  - ice
  - soft drink ( coke, orange, 
  - chips, bisket, 
- ## Schedule:
+
+## Schedule:
   - The-day: 2017-02-10 (Fri)
   - rehearsal: 2017-02-06 (Mon)
 
